@@ -1,0 +1,31 @@
+_repo: D-rerMasterpieces-in-Colour-Series_41734
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 41734-h/images/coversmall.jpg
+creator:
+  author:
+    agent_name: Furst, Herbert
+    aliases:
+    - Furst, Herbert E. A. (Herbert Ernest Augustus)
+    - Furst, Herbert Ernest Augustus
+    birthdate: 1874
+    deathdate: 1945
+    gutenberg_agent_id: '41332'
+    url: http://www.gutenberg.org/2009/agents/41332
+description: ''
+gutenberg_bookshelf: Masterpieces in Colour
+gutenberg_issued: '2012-12-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41734'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Masterpieces in Colour
+subjects:
+- !lcc 'ND'
+- !lcsh 'Dürer, Albrecht, 1471-1528'
+title: Dürer
+url: http://www.gutenberg.org/ebooks/41734
